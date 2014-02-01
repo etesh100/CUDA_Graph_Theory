@@ -1,0 +1,4 @@
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2013 NVIDIA Corporation
+Built on Wed_Jul_17_18:36:13_PDT_2013
+Cuda compilation tools, release 5.5, V5.5.0
