@@ -1,0 +1,6 @@
+# Makefile
+# instructions on make
+# use make with only the following associated files
+# and ensure there are only those files
+# the following files meant for this make are
+# cuda.h and primsPerformanceTesting.cpp
